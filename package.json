@@ -1,0 +1,35 @@
+{
+	"name": "vinyl-basename",
+	"description": "Add a basename path to vinyl objects.",
+	"version": "0.1.0",
+	"main": "src/vinyl-basename.js",
+	"keywords": [
+		"vinyl",
+		"basename",
+		"path",
+		"object",
+		"file",
+		"stream",
+		"javascript"
+	],
+	"author": {
+		"name": "Jannis R",
+		"email": "mail@jannisr.de",
+		"url": "http://jannisr.de"
+	},
+	"homepage": "https://github.com/derhuerst/vinyl-basename",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/derhuerst/vinyl-basename.git"
+	},
+	"bugs": {
+		"url": "https://github.com/derhuerst/vinyl-basename/issues"
+	},
+	"licenses": {
+		"type": "MIT",
+		"url": "http://github.com/derhuerst/vinyl-basename/raw/master/LICENSE"
+	},
+	"dependencies": {
+		"through": "^2.3.7"
+	}
+}

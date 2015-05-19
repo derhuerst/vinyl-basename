@@ -1,7 +1,7 @@
 {
 	"name": "vinyl-basename",
 	"description": "Add a basename path to vinyl objects.",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"main": "src/vinyl-basename.js",
 	"keywords": [
 		"vinyl",
@@ -10,7 +10,8 @@
 		"object",
 		"file",
 		"stream",
-		"javascript"
+		"javascript",
+		"gulpplugin"
 	],
 	"author": {
 		"name": "Jannis R",

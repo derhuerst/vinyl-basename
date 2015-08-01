@@ -26,11 +26,8 @@
 	"bugs": {
 		"url": "https://github.com/derhuerst/vinyl-basename/issues"
 	},
-	"licenses": {
-		"type": "MIT",
-		"url": "http://github.com/derhuerst/vinyl-basename/raw/master/LICENSE"
-	},
+	"licenses": "MIT",
 	"dependencies": {
-		"through": "^2.3.7"
+		"through": "^2.3.8"
 	}
 }
